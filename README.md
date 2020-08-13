@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an example React application using Redux and Redux-Thunk to fetch posts and users using the [https://jsonplaceholder.typicode.com/](JSONPlaceholder) API.
+
+It's a simple app to demonstrate using Redux-Thunk middleware to make asynchronous calls to an API.
+
+From Moder React with Redux \[2020 Update] at Udacity.
+
 
 ## Available Scripts
 
